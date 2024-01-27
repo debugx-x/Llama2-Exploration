@@ -1,2 +1,2 @@
 # Llama2-Exploration
- Project evaluating Llama 2 modal's efficiency for GEC task
+ Project evaluating Llama 2 model's efficiency for GEC task
